@@ -1,0 +1,8 @@
+selenium
+schedule
+# Comment out if using PyQt6 instead of Tkinter
+#tkinter
+PyQt6
+win10toast
+beautifulsoup4
+python-dateutil
